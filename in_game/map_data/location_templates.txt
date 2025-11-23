@@ -1,0 +1,20 @@
+theodoro = { topography = hills vegetation = woods climate = subtropical religion = orthodox culture = pontic_greek_culture raw_material = fish natural_harbor_suitability = 1.00}
+qirq_yer = { topography = flatland vegetation = grasslands climate = continental religion = sunni culture = crimean raw_material = wool natural_harbor_suitability = 0.00}
+lusta = { topography = hills vegetation = woods climate = subtropical religion = orthodox culture = pontic_greek_culture raw_material = wine natural_harbor_suitability = 0.00}
+qarasuvbazar = { topography = flatland vegetation = grasslands climate = continental religion = sunni culture = crimean raw_material = millet}
+crimean_mountains = { topography = mountain_wasteland vegetation = woods climate = continental}
+kaffa = { topography = flatland vegetation = grasslands climate = cold_arid religion = orthodox culture = pontic_greek_culture raw_material = wine natural_harbor_suitability = 0.75}
+soldaia = { topography = flatland vegetation = grasslands climate = subtropical religion = orthodox culture = pontic_greek_culture raw_material = fish natural_harbor_suitability = 0.25}
+vosporo = { topography = flatland vegetation = grasslands climate = cold_arid religion = orthodox culture = pontic_greek_culture raw_material = fruit natural_harbor_suitability = 0.75}
+seyitler = { topography = flatland vegetation = grasslands climate = cold_arid religion = sunni culture = crimean raw_material = livestock}
+solkhat = { topography = flatland vegetation = grasslands climate = cold_arid religion = sunni culture = crimean raw_material = horses}
+kalay = { topography = wetlands vegetation = grasslands climate = cold_arid religion = sunni culture = crimean raw_material = wool}
+kezlev = { topography = flatland vegetation = grasslands climate = cold_arid religion = sunni culture = crimean raw_material = salt natural_harbor_suitability = 0.00}
+aqmecit = { topography = flatland vegetation = grasslands climate = cold_arid religion = sunni culture = crimean raw_material = horses natural_harbor_suitability = 0.00}
+jurchi = { topography = flatland vegetation = grasslands climate = cold_arid religion = sunni culture = crimean raw_material = fiber_crops}
+or_qapi = { topography = wetlands vegetation = grasslands climate = cold_arid religion = sunni culture = crimean raw_material = salt natural_harbor_suitability = 0.00}
+yalta = { topography = hills vegetation = woods climate = subtropical religion = orthodox culture = gothic_culture raw_material = fruit natural_harbor_suitability = 0.00}
+mangup = { topography = mountains vegetation = woods climate = subtropical religion = orthodox culture = gothic_culture raw_material = wine natural_harbor_suitability = 1.00}
+lake_sasyk_syvash = { topography = lakes climate = cold_arid}
+syvash_lagoon = { topography = lakes climate = cold_arid}
+syvash_sand_bar = { topography = flatland_wasteland vegetation = desert climate = cold_arid}
